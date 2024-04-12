@@ -1,5 +1,4 @@
 #include<stdio>
 int main()
 {
-cou<<"heloo"
-}
+cout<<"heloo";
